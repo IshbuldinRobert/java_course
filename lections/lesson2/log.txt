@@ -1,0 +1,4 @@
+янв. 09, 2024 8:02:19 PM lesson2.Ex5_logger main
+WARNING: Тестовое логирование 1
+янв. 09, 2024 8:02:19 PM lesson2.Ex5_logger main
+INFO: Тестовое логирование 2
